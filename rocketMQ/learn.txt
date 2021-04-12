@@ -18,5 +18,6 @@ rocketMQ：
 缺点：只支持java
 场景：几乎全场景
 
-
+### rocketMQ几大组件
+broker、nameServer、producer、consumer
 
