@@ -21,3 +21,6 @@ rocketMQ：
 ### rocketMQ几大组件
 broker、nameServer、producer、consumer
 
+
+
+集群：多主多从
